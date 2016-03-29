@@ -1,0 +1,11 @@
+{ "posts": [{
+  "category": "Upcoming Sales",
+  "message": "There will be new properties available in the Bay area"
+}, {
+  "category": "Weather Warnings",
+  "message": "Hurricane Advisory in Miami"
+}, {
+  "category": "Big Exciting News",
+  "message": "Hooray"
+  }]
+}
